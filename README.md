@@ -1,3 +1,5 @@
+# Notes on Java Memory Management
+
 ## The Basics
 
 ### The stack
